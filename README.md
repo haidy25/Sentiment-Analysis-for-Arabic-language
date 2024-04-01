@@ -11,19 +11,20 @@ ISRIStemmer library for Arabic stemming (install via pip: pip install ISRIStemme
 Introduction
 This repository contains implementations of Recurrent Neural Networks (RNN) and Transformer models from scratch using Python and NumPy.
 
-Dependencies
+# Dependencies
 Python 3.x
 NumPy
-Usage
+# Usage
 Clone the repository to your local machine.
 Navigate to the directory containing the code.
 Run python rnn.ipynb to train and test the RNN model.
 Run python transformer.ipynb to train and test the Transformer model.
-Customization
+
+# Customization
 You can adjust hyperparameters such as learning rate, hidden size, number of layers, etc., by modifying the relevant variables in the code.
 To train the models on your own dataset, replace the dummy data provided in the code with your dataset.
 Credits
 This implementation is inspired by the concepts presented in various research papers and online tutorials.
 
-Contribution
+# Contribution
 Contributions are welcome. If you find any bugs or have suggestions for improvement, feel free to create an issue or submit a pull request.
