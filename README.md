@@ -4,7 +4,9 @@ This script provides a preprocessing pipeline for Arabic sentences, including to
 
 Dependencies
 Python 3.x
+
 Qalsadi library for Arabic lemmatization (install via pip: pip install qalsadi)
+
 ISRIStemmer library for Arabic stemming (install via pip: pip install ISRIStemmer)
 
 # Implementing RNN and Transformer from Scratch
